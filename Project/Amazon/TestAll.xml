@@ -1,0 +1,10 @@
+
+<suite name="Suite1" verbose="1" >
+
+    <test name="Regression1">
+        <classes>
+            <class name="Testes.LoginTest"/>
+            <class name="Testes.AddItemsAddCartTest"/>
+            <class name="Testes.ScenarioThreeTest"/>
+        </classes>
+    </test></suite>
